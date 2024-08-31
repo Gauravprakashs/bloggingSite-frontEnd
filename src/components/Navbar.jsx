@@ -10,7 +10,7 @@ function Navbar() {
     <nav className="navbar navbar-light">
       <div className="container">
         <NavLink activeClassName="active" className="navbar-brand" to="/" end>
-          Blogging App
+          BlogPost a place for Bloggers 
         </NavLink>
         <ul className="nav navbar-nav pull-xs-right">
           <li className="nav-item">
